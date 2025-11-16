@@ -18,8 +18,8 @@ let package = Package(
     )
   ],
   dependencies: [
-    .package(url: "https://github.com/pointfreeco/swift-dependencies", from: "1.9.2"),
-    .package(url: "https://github.com/sideeffect-io/AsyncExtensions", from: "0.5.2"),
+    .package(url: "https://github.com/pointfreeco/swift-dependencies", from: "1.10.0"),
+    .package(url: "https://github.com/sideeffect-io/AsyncExtensions", from: "0.5.4"),
   ],
   targets: [
     // Targets are the basic building blocks of a package, defining a module or a test suite.
